@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/StockBridge.Api/StockBridge.Api.csproj" />
+    <Project Path="src/StockBridge.Core/StockBridge.Core.csproj" />
+    <Project Path="src/StockBridge.Infrastructure/StockBridge.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/StockBridge.Tests/StockBridge.Tests.csproj" />
+  </Folder>
+</Solution>
